@@ -32,7 +32,7 @@ export const About = () => {
         variants={fadeUp}
         className='mt-4 text-neutral-300'
       >
-        I’m a Junior Full-Stack Web Developer and Machine Learning Engineer currently pursuing my degree in Computer Science at Universitas Dian Nuswantoro. I am passionate about transforming complex technical problems into clear, intuitive digital experiences. To me, great design is a synergy between how a product looks and how it functions.
+        I’m a Junior Data Scientist and Machine Learning Engineer currently pursuing my degree in Computer Science at Universitas Dian Nuswantoro. I am passionate about transforming complex technical problems into clear, intuitive digital experiences. To me, great design is a synergy between how a product looks and how it functions.
       </motion.p>
 
       <motion.p
