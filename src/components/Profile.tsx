@@ -23,7 +23,7 @@ export const Profile = () => {
           <p className='text-sm text-neutral-300'>Specialization:</p>
 
           <p className='text-lg capitalize'>
-            Fullstack Web Development, Machine Learning & AI Engineer
+            Data Science, Machine Learning & AI Engineer
           </p>
         </div>
 
